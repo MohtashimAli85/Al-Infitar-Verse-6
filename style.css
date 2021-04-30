@@ -9,7 +9,7 @@ body {
   font-weight: 400;
   background: url("white-radial-gradient.jpg") no-repeat center;
   background-size: cover;
-  height: 96vh;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
